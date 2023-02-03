@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.exe
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.deps.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\bin\Debug\netcoreapp3.1\Second.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\Second\Second\obj\Debug\netcoreapp3.1\Second.genruntimeconfig.cache
